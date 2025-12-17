@@ -18,8 +18,8 @@ const Navigation = () => {
 
   const handleDownloadResume = () => {
     const link = document.createElement('a');
-    link.href = '/JeanilouLabajo_Resume.pdf';
-    link.download = 'JeanilouLabajo_Resume.pdf';
+    link.href = '/JeanilouLabajo_SoftwareTestEngineer_5Years.pdf';
+    link.download = 'JeanilouLabajo_SoftwareTestEngineer_5Years.pdf';
     link.click();
   };
 
